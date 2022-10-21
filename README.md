@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jukoor
+- 👀 I’m interested in frontend development, graphic design, geometric shapes, colors, melodic music
+- 🌱 I’m currently learning react
