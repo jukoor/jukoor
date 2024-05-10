@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jukoor
-- 👀 I’m interested in frontend development, graphic design, geometric shapes, colors, melodic music
-- 🌱 I’m currently learning react
+- 👀 I’m interested in Frontend Development, Graphic Design and AI Art
+- 🌱 I’m currently deepening my knowledge in react
