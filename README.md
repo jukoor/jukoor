@@ -1,3 +1,12 @@
-- 👋 Hi, I’m @jukoor
-- 👀 I’m interested in Frontend Development, Graphic Design and AI Art
-- 🌱 I’m currently deepening my knowledge in react
+# Hi there! 👋 My name is Julian, welcome to my GitHub profile.
+
+I'm a passionate web developer with a love for clean code and creative design. 
+
+## About Me
+- 🌟 I'm currently working as a Software Developer at NetWorld.
+- 🚀 I specialize in React.
+- 🎨 I enjoy turning ideas into fancy or not so fancy, functional websites.
+- 🌐 Check out my personal website: julianorth.de
+
+## Projects
+Here are some of the projects I've worked on:
